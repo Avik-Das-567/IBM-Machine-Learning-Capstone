@@ -2,5 +2,5 @@
 ---
 ### Course Link - https://www.coursera.org/learn/machine-learning-capstone
 ---
-### Certificate - https://www.coursera.org/account/accomplishments/verify/PMX9G8J9ANAF
+### Certificate - https://www.coursera.org/account/accomplishments/certificate/PMX9G8J9ANAF
 ---
